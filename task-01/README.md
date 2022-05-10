@@ -14,11 +14,11 @@ Select the project of your preference:
 
 ### Step 2: 
 
-Create an account on <a href="https://moqups.com/" target="_blank">Moqups</a>
+Use <a href="https://wireframe.cc/" target="_blank">Wireframe App</a> to build your layouts. No account needed, take screenshots of your layouts before erasing them.
 
 ### Step 3: Create your App Wireframes!
 
-In this step, we'll create the wireframes of your the project you selected. Make sure you read the acceptance criteria on the **results** section before
+In this step, we'll create the wireframes of the project you selected. Make sure you read the acceptance criteria on the **results** section before
 you start designing. Ask the instructor if you have any questions!
 
 > #### Useful Resources for this step
