@@ -12,7 +12,7 @@ Select the project of your preference:
 * E-commerce
 * Social Network
 
-### Step 3: Create your App Wireframes!
+### Step 2: Create your App Wireframes!
 
 In this step, we'll create the wireframes of the project you selected. Make sure you read the acceptance criteria on the **results** section down below before
 you start designing. Ask the instructor if you have any questions!
