@@ -34,16 +34,7 @@ In this step, we'll create a basic HTML structure for the home page which includ
 > - [List group](https://getbootstrap.com/docs/4.5/components/list-group/)
 > - [Cards](https://getbootstrap.com/docs/4.5/components/card/)
 
-### Step 3: Implementing your Login page (Optional)
-
-1. Create a new file called `login.html` inside your project folder.
-2. Implement a basic login form.
-3. Add a Login button.
-
-> #### Useful Resources for this step
-> - [Forms](https://getbootstrap.com/docs/4.5/components/forms/)
-
-### Step 4: Implementing your model form page
+### Step 3: Implementing your model form page
 
 1. Create a new file called `item_form.html` inside your project folder.
 2. Implement a basic form with the fields needed to create a new item(post or product)
@@ -52,7 +43,7 @@ In this step, we'll create a basic HTML structure for the home page which includ
 > #### Useful Resources for this step
 > - [Forms](https://getbootstrap.com/docs/4.5/components/forms/)
 
-### Step 5: Adding a Navigation Bar
+### Step 4: Adding a Navigation Bar
 
 1. Understand how the [Navbar](https://getbootstrap.com/docs/4.5/components/navbar/) works.
 2. Add a Navbar with the menu options for each page
