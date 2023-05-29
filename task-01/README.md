@@ -2,7 +2,7 @@
 
 ## Description
 
-Is always a good practice to design first before coding. The objective of this task is to design the application's wireframes so that you will have a better understanding of how the application will work and look.
+It is always a good practice to design first before coding. The objective of this task is to design the application's wireframes so that you will have a better understanding of how the application will work and look.
 
 ## Walkthrough
 
@@ -12,31 +12,22 @@ Select the project of your preference:
 * E-commerce
 * Social Network
 
-### Step 2: 
-
-Use <a href="https://wireframe.cc/" target="_blank">Wireframe App</a> to build your layouts. No account needed, take screenshots of your layouts before erasing them.
-
 ### Step 3: Create your App Wireframes!
 
-In this step, we'll create the wireframes of the project you selected. Make sure you read the acceptance criteria on the **results** section before
+In this step, we'll create the wireframes of the project you selected. Make sure you read the acceptance criteria on the **results** section down below before
 you start designing. Ask the instructor if you have any questions!
 
-> #### Useful Resources for this step
-> - <a href="https://webdesign.tutsplus.com/articles/a-beginners-guide-to-wireframing--webdesign-7399" target="_blank">beginners guide to wireframing</a>
+You are more then welcome to use any tools you would like for creating the wireframe. You could use penicl and paper and take screenshots. You could use a google jamboard. Whatever you would like!
+[Article about wireframing](https://blog.hubspot.com/website/website-wireframe)
 
-
-> #### Test your Design!
-> Navigate through your designs and validate that you meet the **assesment criteria**. 
-
-> **Expected Result**
-> You should be able to navigate to all screens and fulfill the requirements.
+Please have one team member make a copy of this document and then share it with the other members. This document needs to be filled out and shown to a member of your instructional staff so they can sign off on your project! [Here is the doc](https://docs.google.com/document/d/1FCOPNEk17LA7i4bZ0CQMZrGiUAsViTpI/copy)
 
 
 ## Results
 
 You should have implemented the different screens of your application, meeting the following **assesment criteria**:
 
-* There should be at minimum 4 pages: 
+* There should be at minimum 4 pages: (your pages can be different, these are just examples)
   * Main page (Home)  - Static Page with App Presentation
   * About Us - Static Pages
   * Products / Posts List - Consumes API (POST and GET)
