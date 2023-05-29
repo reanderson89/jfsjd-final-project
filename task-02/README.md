@@ -16,11 +16,11 @@ The page will contain the following parts:
 ## Walkthrough
 
 ### Step 0: Create a private GitHub repository
-Create a private GitHub repository that is shared among your groupmates and your instructor.
+Create a public GitHub repository that is shared among your groupmates and your instructor and TA's.
 
 ### Step 1: Create the page structure
 
-In this step, we'll create a basic HTML structure and include [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+In this step, we'll create a basic HTML structure and include [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 
 1. Create a new file called `about.html` in your project folder.
 2. Create a new file called `styles.css` and put this file inside a folder called `css` in your project folder.
@@ -29,7 +29,7 @@ In this step, we'll create a basic HTML structure and include [Bootstrap](https:
 
 ### Step 2: Implementing your About page
 
-Go through the different [Bootstrap components](https://getbootstrap.com/docs/4.5/components/alerts/) and select the ones that are similar 
+Go through the different Bootstrap components and select the ones that are similar 
 to your wireframes structure created on Task 1.
 
 
